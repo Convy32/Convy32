@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Convy32
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JS and CSS
-- 💞️ I’m looking to collaborate on a Discord Bot
+- 👀 I’m interested in Softwarre and Game Development
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on a software project
 - 📫 How to reach me: Email conor15zr@gmail.com
 
 <!---
